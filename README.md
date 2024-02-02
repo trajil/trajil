@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hey, I'm Eugene! 👋
 
 Welcome to my GitHub space where I tinker with C++ and Python and build bridges between problems and solutions. Feel free to connect with me!
