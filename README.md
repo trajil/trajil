@@ -5,7 +5,7 @@ Welcome to my GitHub space where I tinker with C++ and Python and build bridges 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <!-- TryHackMe Badge -->
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Trajil.png?8)](https://tryhackme.com/p/Trajil)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Trajil.png)](https://tryhackme.com/p/Trajil)
 
 ```cpp
 #include <friendlyness>
