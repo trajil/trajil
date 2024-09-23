@@ -1,7 +1,7 @@
 # Hey, I'm Eugene! 👋
 
 Welcome to my GitHub space where I tinker with C++ and Python and build bridges between problems and solutions. Feel free to connect with me!
-
+![Kali Linux]([https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white))
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <!-- TryHackMe Badge -->
